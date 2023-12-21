@@ -1,0 +1,14 @@
+button{
+    background-color: darkgray;
+    color: aliceblue;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 20px;
+}
+#btnSubmit{
+    background-color: #28a745;
+    color: aliceblue;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 20px;
+}

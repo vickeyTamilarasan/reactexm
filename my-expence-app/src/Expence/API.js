@@ -1,0 +1,1 @@
+export const API = "https://65042b1cc8869921ae24a17b.mockapi.io/expenses-app"

@@ -1,0 +1,1 @@
+export const ContactApi = 'http://localhost:4000/contact'

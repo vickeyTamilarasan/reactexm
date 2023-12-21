@@ -1,0 +1,1 @@
+export const API="http://localhost:1800/register"
